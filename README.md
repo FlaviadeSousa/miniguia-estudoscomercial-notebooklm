@@ -2,6 +2,8 @@
 
 > **Projeto Prático — Caderno Temático no NotebookLM**  
 > Combinando pensamento crítico, curadoria de fontes e organização do conhecimento para desenvolver fluência na área comercial.
+>*https://notebooklm.google.com/notebook/1bf6720b-0d05-4b57-a464-7aa0c177eb58*
+
 
 ---
 
@@ -24,15 +26,14 @@ A área comercial é uma das mais estratégicas em qualquer organização — e 
 
 ## 📚 Curadoria de Fontes
 
-As fontes abaixo foram selecionadas por qualidade, acessibilidade e relevância para o tema. Todas foram carregadas no NotebookLM como base do caderno.
+As fontes abaixo são algumas selecionadas por qualidade, acessibilidade e relevância para o tema. Todas foram carregadas no NotebookLM como base do caderno.
 
 | # | Fonte | Tipo | Descrição | Link |
 |---|-------|------|-----------|------|
 | 1 | **HubSpot Blog – Sales Strategy** | Artigos / Web | Referência global em vendas e CRM. Conteúdo gratuito, didático e muito atualizado sobre funil, pipeline e técnicas de vendas. | [hubspot.com/sales](https://blog.hubspot.com/sales) |
 | 2 | **Rock Content – Guia de Vendas B2B** | Artigo / Web | Conteúdo em português sobre a estrutura de vendas B2B, diferenças com B2C e como montar uma operação comercial. | [rockcontent.com](https://rockcontent.com/br/blog/vendas-b2b/) |
-| 3 | **Sebrae – Técnicas de Negociação e Vendas** | PDF / Web | Material institucional com foco em pequenas e médias empresas. Cobre técnicas de abordagem, negociação e fechamento. | [sebrae.com.br](https://www.sebrae.com.br/sites/PortalSebrae/artigos/estrategias-para-aumentar-as-vendas,5cd2438af1c92410VgnVCM100000b272010aRCRD) |
-| 4 | **Sales Hacker – Modern Sales Playbook** | Artigo / Web | Comunidade de referência em vendas modernas. Artigos práticos sobre SDR, AE, CRM e operações de receita (RevOps). | [saleshacker.com](https://www.saleshacker.com) |
-| 5 | **LinkedIn Sales Blog – B2B Selling** | Artigos / Web | Perspectiva prática sobre social selling, prospecção ativa e desenvolvimento de relacionamentos comerciais. | [business.linkedin.com/sales-solutions/blog](https://business.linkedin.com/sales-solutions/blog) |
+| 3 | **Sales Hacker – Modern Sales Playbook** | Artigo / Web | Comunidade de referência em vendas modernas. Artigos práticos sobre SDR, AE, CRM e operações de receita (RevOps). | [saleshacker.com](https://www.saleshacker.com) |
+| 4 | **LinkedIn Sales Blog – B2B Selling** | Artigos / Web | Perspectiva prática sobre social selling, prospecção ativa e desenvolvimento de relacionamentos comerciais. | [business.linkedin.com/sales-solutions/blog](https://business.linkedin.com/sales-solutions/blog) |
 
 > 💡 **Nota:** No NotebookLM, você pode adicionar URLs diretamente como fonte — ele lê e indexa o conteúdo automaticamente. Para PDFs do Sebrae, baixe e faça o upload manual.
 
@@ -266,15 +267,7 @@ Como o conceito de [tema] evoluiu nos últimos anos segundo as fontes?
 - **[GitHub](https://github.com/)** — Repositório e documentação do projeto
 - **Fontes abertas** listadas na seção de Curadoria
 
----
-
-## 📈 Próximos Passos
-
-- [ ] Adicionar fonte sobre CRM (Salesforce / HubSpot Academy)
-- [ ] Estudar métricas de RevOps com mais profundidade
-- [ ] Criar simulações de pipeline com dados fictícios
-- [ ] Assistir ao curso gratuito HubSpot Sales Software Certification
 
 ---
 
-*Projeto desenvolvido como parte de desafio prático de curadoria de conhecimento com IA.*
+*Projeto desenvolvido como parte de desafio prático da DIO, no Bootcamp Lupo - Primeiros Passos com Inteligência Artificial.*
